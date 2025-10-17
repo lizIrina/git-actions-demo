@@ -1,5 +1,3 @@
-import os
-import sys
 from app import reverse_text
 
 
